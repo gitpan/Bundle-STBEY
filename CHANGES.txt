@@ -1,5 +1,5 @@
                    =======================================
-                     Package "Bundle::STBEY" Version 1.0
+                     Package "Bundle::STBEY" Version 1.1
                    =======================================
 
 
@@ -9,6 +9,10 @@
 
 Version history:
 ----------------
+
+Version 1.1   17.10.2009
+
+ +  Updated all version numbers which have changed
 
 Version 1.0   06.10.2009
 

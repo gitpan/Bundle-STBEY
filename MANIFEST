@@ -2,6 +2,6 @@ CHANGES.txt
 MANIFEST
 Makefile.PL
 README.txt
-STBEY.pm
+lib/Bundle/STBEY.pm
 t/00_version.t
 META.yml                                 Module meta-data (added by MakeMaker)
